@@ -1,0 +1,20 @@
+C:\Users\VNast\source\repos\sticker\sticker\obj\Debug\sticker.csprojAssemblyReference.cache
+C:\Users\VNast\source\repos\sticker\sticker\obj\Debug\sticker.main.resources
+C:\Users\VNast\source\repos\sticker\sticker\obj\Debug\sticker.Properties.Resources.resources
+C:\Users\VNast\source\repos\sticker\sticker\obj\Debug\sticker.csproj.GenerateResource.cache
+C:\Users\VNast\source\repos\sticker\sticker\obj\Debug\sticker.csproj.CoreCompileInputs.cache
+C:\Users\VNast\source\repos\sticker\sticker\bin\Debug\sticker.exe.config
+C:\Users\VNast\source\repos\sticker\sticker\bin\Debug\sticker.exe
+C:\Users\VNast\source\repos\sticker\sticker\bin\Debug\sticker.pdb
+C:\Users\VNast\source\repos\sticker\sticker\obj\Debug\sticker.exe
+C:\Users\VNast\source\repos\sticker\sticker\obj\Debug\sticker.pdb
+D:\old data\old data\VisualStudioProject\sticker\sticker\bin\Debug\sticker.exe.config
+D:\old data\old data\VisualStudioProject\sticker\sticker\bin\Debug\sticker.exe
+D:\old data\old data\VisualStudioProject\sticker\sticker\bin\Debug\sticker.pdb
+D:\old data\old data\VisualStudioProject\sticker\sticker\obj\Debug\sticker.csprojAssemblyReference.cache
+D:\old data\old data\VisualStudioProject\sticker\sticker\obj\Debug\sticker.main.resources
+D:\old data\old data\VisualStudioProject\sticker\sticker\obj\Debug\sticker.Properties.Resources.resources
+D:\old data\old data\VisualStudioProject\sticker\sticker\obj\Debug\sticker.csproj.GenerateResource.cache
+D:\old data\old data\VisualStudioProject\sticker\sticker\obj\Debug\sticker.csproj.CoreCompileInputs.cache
+D:\old data\old data\VisualStudioProject\sticker\sticker\obj\Debug\sticker.exe
+D:\old data\old data\VisualStudioProject\sticker\sticker\obj\Debug\sticker.pdb
