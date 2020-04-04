@@ -69,6 +69,10 @@ namespace sticker
             {
                 Application.Exit();
             }
+            if (e.Control && e.KeyCode == Keys.PageDown)
+            {
+                this.TopMost = !this.TopMost;
+            }
         }
 
         private void pictureBox1_MouseDown(object sender, MouseEventArgs e)

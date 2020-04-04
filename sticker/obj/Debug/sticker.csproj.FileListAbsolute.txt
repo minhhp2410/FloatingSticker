@@ -18,3 +18,13 @@ D:\old data\old data\VisualStudioProject\sticker\sticker\obj\Debug\sticker.cspro
 D:\old data\old data\VisualStudioProject\sticker\sticker\obj\Debug\sticker.csproj.CoreCompileInputs.cache
 D:\old data\old data\VisualStudioProject\sticker\sticker\obj\Debug\sticker.exe
 D:\old data\old data\VisualStudioProject\sticker\sticker\obj\Debug\sticker.pdb
+D:\Github\FloatingSticker\sticker\bin\Debug\sticker.exe.config
+D:\Github\FloatingSticker\sticker\bin\Debug\sticker.exe
+D:\Github\FloatingSticker\sticker\bin\Debug\sticker.pdb
+D:\Github\FloatingSticker\sticker\obj\Debug\sticker.csprojAssemblyReference.cache
+D:\Github\FloatingSticker\sticker\obj\Debug\sticker.main.resources
+D:\Github\FloatingSticker\sticker\obj\Debug\sticker.Properties.Resources.resources
+D:\Github\FloatingSticker\sticker\obj\Debug\sticker.csproj.GenerateResource.cache
+D:\Github\FloatingSticker\sticker\obj\Debug\sticker.csproj.CoreCompileInputs.cache
+D:\Github\FloatingSticker\sticker\obj\Debug\sticker.exe
+D:\Github\FloatingSticker\sticker\obj\Debug\sticker.pdb
