@@ -64,8 +64,9 @@ namespace sticker
                 op.InitialDirectory = Application.StartupPath + "\\Resource";
                 if (op.ShowDialog() == DialogResult.OK)
                 {
-                    pictureBox1.Image = Image.FromFile(op.FileName);
-                    this.Size = pictureBox1.Image.Size;
+                    im = Image.FromFile(op.FileName);
+                    pictureBox1.Image = im;
+                    this.Size = im.Size;
                     resize(im);
                     File.WriteAllText("lastgif.txt", op.FileName);
                 }
