@@ -27,3 +27,4 @@ D:\Github\FloatingSticker\sticker\obj\Debug\sticker.csproj.GenerateResource.cach
 D:\Github\FloatingSticker\sticker\obj\Debug\sticker.csproj.CoreCompileInputs.cache
 D:\Github\FloatingSticker\sticker\obj\Debug\sticker.exe
 D:\Github\FloatingSticker\sticker\obj\Debug\sticker.pdb
+D:\Github\FloatingSticker\sticker\obj\Debug\sticker.csprojAssemblyReference.cache

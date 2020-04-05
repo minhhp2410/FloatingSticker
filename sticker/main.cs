@@ -76,7 +76,7 @@ namespace sticker
             try
             {
                 start();
-                this.Location = new Point(Screen.PrimaryScreen.Bounds.Width - pictureBox1.Image.Width, 0);
+                this.Location = new Point(Screen.PrimaryScreen.Bounds.Width - this.Width, 0);
             }
             catch
             {
